@@ -35,10 +35,10 @@ With the rapid growth of online advertising, businesses aim to target users who 
 - Tune hyperparameters using GridSearchCV
 - Deploy as a web app using Streamlit or Flask
 
-Author
+## Author
 
 Aashima Bhatia
 
-Gmail: aashimabhatia2005@gmail.com
+**Gmail**: aashimabhatia2005@gmail.com
 
-Linkedin: https://www.linkedin.com/in/aashima-bhatia-a30919300/
+**LinkedIn**: https://www.linkedin.com/in/aashima-bhatia-a30919300/
